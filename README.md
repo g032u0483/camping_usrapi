@@ -5,7 +5,7 @@
 主要功能為四大項，網址上輸入下方網址就可以路由到對應的功能上。             
 
 
-                           http://renhao1.goodideascampus.com/api/(function) 
+                           http://renhao1.goodideascampus.com/(function) 
                        
                        
                        
